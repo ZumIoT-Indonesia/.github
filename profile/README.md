@@ -1,7 +1,7 @@
 # Starbit's Project List
 
 1. **Website Company Profile MMA** - "Lu lagi ngerjain apa van?"
-2. **Timesheet MKN** - "Lu lagi ngerjain apa do?"
+2. **Timesheet MKN** - Mengerjakan tuning dan add activity
 3. **ANB Super Apps (Mockup Design)** - Creating mock up design apps
 4. **TVONE** - Develop dashboard TV Performance and Financial
 5. **Maintenance Motherboard** - Maintenance data
