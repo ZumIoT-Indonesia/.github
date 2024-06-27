@@ -8,7 +8,7 @@
 6. **Tender Project Kantor Pusat PKT** - Sudah membantu dokumen teknis yang diminta sama sales. belum ada update lagi dari sales mengenai dokumen yang dibutuhkan lagi
 7. **Elevee** - Pengiriman Penawaran ke pihak Elevee
 8. **Tracker BPI** - Kurang 5 GPS yang belum dipasang (Belum terbeli GPS nya)
-9. **POC BPI (Power Meter)** - Proses pembelian adaptor dan antena
+9. **POC BPI (Power Meter)** - Proses pembelian adaptor dan antena, Upgrade Thingsboard dashboard.zumiot.id
 10. **Fuel Dispenser** - Menunggu penawaran Fuel Dispenser dari Rumah Fuel Dispenser
 11. **Dashboard ERP** - Develop dashboard ERP (HRIS, Procurement, WMS, Operation, CRM)
 <!--
