@@ -11,6 +11,8 @@
 9. **POC BPI (Power Meter)** - Proses pembelian adaptor dan antena, Upgrade Thingsboard dashboard.zumiot.id
 10. **Fuel Dispenser** - Menunggu penawaran Fuel Dispenser dari Rumah Fuel Dispenser
 11. **Dashboard ERP** - Develop dashboard ERP (HRIS, Procurement, WMS, Operation, CRM)
+12. **BSP** -
+13. **Video Safety Meeting dan Yel Yel**
 <!--
 
 **Here are some ideas to get you started:**
